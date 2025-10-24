@@ -219,8 +219,10 @@ footer .whatsapp:hover {
 }
 
 .modal-content img {
-    max-width: 100%;
+    max-width: 70%;
+    height: auto;
     border-radius: 10px;
+    transition: 0.3s;
 }
 
 .close {
