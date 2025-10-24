@@ -76,7 +76,7 @@ nav a:hover {
     background: #f4f4f4;
     padding: 15px;
     width: 80%;        /* Reduz para 80% do tamanho do card */
-    max-width: 250px;  /* Limita o tamanho máximo */
+    max-width: 150px;  /* Limita o tamanho máximo */
     border-radius: 10px;
     display: block;
     margin: 0 auto;
