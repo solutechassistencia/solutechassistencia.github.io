@@ -59,6 +59,24 @@ nav a:hover {
     border-radius: 10px;
 }
 
+/* Quem Somos */
+.quem-somos {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.center-title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.center-text {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
 /* Serviços */
 .services {
     padding: 40px 20px;
